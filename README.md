@@ -13,7 +13,7 @@ I write three test funcions to try the APIs.
 # Retrieve_tweets
 In this function, we can search a user by his/hers ID. Then we can get the tweets shared by this person. By the way, Twitter only allows access to a users most recent 3240 tweets with this method. After searching, we will store these tweets in a json file.</br>
 
-I upload the result, named retrieve_tweets.json, of running the python code. You can have a quick look and check it.  
+I upload the result, named retrieve_tweets.json, of running the python code. In this test, I just searched my own twitter ID - "Tian_Mayu". If you like, you can have a quick look and check it.  
 
 # Hashtags_lookup
 This function is used to search some tweets related to specific hashtags. When you set down the hashtags you would like to search, the function will search the tag and send back all related tweets which includes this hashtag. It also responds in a json format. In my practice, I search the "skateboarding dog" tag.

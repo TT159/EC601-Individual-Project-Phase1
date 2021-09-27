@@ -30,4 +30,4 @@ It will read OAuth credentials from a text file. The File format as follows:
 - access_token_key=YOUR_ACCESS_TOKEN
 - access_token_secret=YOUR_ACCESS_TOKEN_SECRET</br>
 
-I also upload my test result within a screenshot PNG image. By the way, you can easily get your own consumer_key, access_token_key, etc on Twitter Developer Platform, if you have a developer account.
+I also upload my test result within a screenshot PNG image. In this image, after running the code, it responds with "OK", which means your credentials are correct. By the way, you can easily get your own consumer_key, access_token_key, etc on Twitter Developer Platform, if you have a developer account.

@@ -8,7 +8,8 @@ The Twitter API can be used to programmatically retrieve and analyze data, as we
 - Trends
 - Media
 - Places
-I write three test funcions to try the APIs.
+</br>
+In this project, I write three test funcions to try the APIs.
 
 # Retrieve_tweets
 In this function, we can search a user by his/hers ID. Then we can get the tweets shared by this person. By the way, Twitter only allows access to a users most recent 3240 tweets with this method. After searching, we will store these tweets in a json file.</br>
